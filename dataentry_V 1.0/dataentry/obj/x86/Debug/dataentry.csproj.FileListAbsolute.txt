@@ -1,0 +1,30 @@
+D:\dataentry\dataentry\obj\x86\Debug\dataentry.login.resources
+D:\dataentry\dataentry\obj\x86\Debug\dataentry.Properties.Resources.resources
+D:\dataentry\dataentry\obj\x86\Debug\dataentry.csproj.GenerateResource.Cache
+D:\dataentry\dataentry\obj\x86\Debug\dataentry.frmdataentry.resources
+D:\dataentry\dataentry\bin\Debug\dataentry.accdb
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\bin\Debug\dataentry.exe.config
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\obj\x86\Debug\dataentry.exe
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\obj\x86\Debug\dataentry.pdb
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\bin\Debug\dataentry.accdb
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\bin\Debug\dataentry.exe.manifest
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\bin\Debug\dataentry.application
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\bin\Debug\dataentry.exe
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\bin\Debug\dataentry.pdb
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\obj\x86\Debug\dataentry.csprojResolveAssemblyReference.cache
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\obj\x86\Debug\dataentry.frmdataentry.resources
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\obj\x86\Debug\dataentry.login.resources
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\obj\x86\Debug\dataentry.Properties.Resources.resources
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\obj\x86\Debug\dataentry.csproj.GenerateResource.Cache
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\obj\x86\Debug\dataentry.exe.manifest
+C:\Users\niks.niks-PC\Downloads\Compressed\Attachments_201468\dataentry\dataentry\dataentry\obj\x86\Debug\dataentry.application
+D:\dataentry\dataentry\obj\x86\Debug\dataentry.csprojResolveAssemblyReference.cache
+D:\dataentry\dataentry\bin\Debug\Data Entry.exe.config
+D:\dataentry\dataentry\bin\Debug\Data Entry.exe.manifest
+D:\dataentry\dataentry\bin\Debug\Data Entry.application
+D:\dataentry\dataentry\bin\Debug\Data Entry.exe
+D:\dataentry\dataentry\bin\Debug\Data Entry.pdb
+D:\dataentry\dataentry\obj\x86\Debug\Data Entry.exe.manifest
+D:\dataentry\dataentry\obj\x86\Debug\Data Entry.application
+D:\dataentry\dataentry\obj\x86\Debug\Data Entry.exe
+D:\dataentry\dataentry\obj\x86\Debug\Data Entry.pdb
