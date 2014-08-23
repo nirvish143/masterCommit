@@ -18,6 +18,7 @@ namespace dataentry
     {
         string[] files;
         FolderBrowserDialog folderBrowserDialog1;
+		int n1;
         public frmdataentry()
         {
             InitializeComponent();
